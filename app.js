@@ -7,5 +7,5 @@ app.use(async ctx => {
 });
 
 app.listen(port, function() { 
-    console.log('Node.js server started on port: ' + port
+    console.log('Node.js server started on port: ' + port);
 });
